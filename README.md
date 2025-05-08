@@ -1,4 +1,4 @@
-- 👋 Bonjour j'suis Zidane 
+- 👋 Salut j'suis Zidane 
 - 👀 Je suis un pationné de Data et IA
 - 🌱 Actuellement je suis étudiant en informatique décisionnelle 
 - 💞️ Je cherche à collaborer sur des projets Data et IA
